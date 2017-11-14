@@ -1,0 +1,7 @@
+[package]
+name = "drakort"
+version = "0.1.0"
+authors = ["Rickard Englund <rickard.englund@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
